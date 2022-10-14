@@ -1,0 +1,28 @@
+body {
+    background-color: papayawhip;
+}
+
+h1 {
+    color: green;
+    font-size: 45px;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+#nomeNegrito {
+    color: darkgreen;
+}
+
+.churrasco {
+    font-size: 30px;
+}
+
+.games {
+    font-size: 25px;
+}
+
+.dormir {
+    font-size: 20px;
+}
