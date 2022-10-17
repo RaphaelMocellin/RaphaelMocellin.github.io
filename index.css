@@ -26,3 +26,30 @@ p {
 .dormir {
     font-size: 20px;
 }
+
+div.name {
+    text-align: center;
+}
+
+div.myPhoto {
+    float: left;
+    padding: 10px;
+    background-color: black;
+}
+
+div.description {
+    position: absolute;
+    width: 400px;
+    top: 200px;
+    left: 330px;
+}
+
+div.skills {
+    position: absolute;
+    top: 420px;
+}
+
+div.hobbies {
+    position: absolute;
+    top: 620px;
+}
